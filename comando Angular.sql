@@ -1,4 +1,5 @@
 /*COMANDO ANGULAR*/
+================================================================================
 /*Verificamos q version de Node JS esta instalado y si no tenemos instalamos*/
 node --version
 
@@ -68,7 +69,6 @@ ng g m auth/authRouting --flat
 
 /*Creación de servicios*/
 ng g s services/userHttp
-
 
 ----------------------------------------------------------------------------------------------------------
 --ng g c pages --flat

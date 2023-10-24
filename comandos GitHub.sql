@@ -156,7 +156,7 @@ npm install --Instalamos todos las dependencias y complementos necesarios para q
     code .
 
 /* Configuración básica para Git de usuario y email de manera global*/
-    git config --globar user.name "nombre del usuario"
+    git config --global user.name "nombre del usuario"
     git config --global user.email "youremail@mail.com"
 
 
@@ -195,4 +195,3 @@ npm install --Instalamos todos las dependencias y complementos necesarios para q
 
 =======================================================================================================
 /* GIT CHECKOUT Y RESET */
-
