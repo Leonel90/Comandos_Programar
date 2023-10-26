@@ -195,3 +195,10 @@ npm install --Instalamos todos las dependencias y complementos necesarios para q
 
 =======================================================================================================
 /* GIT CHECKOUT Y RESET */
+/* Para visualizar que archivos estan cambiados despues de haber hecho algun commit */
+    git reset
+
+/* Para regresar al ultimo cambio q se realizo el commit si ya hice cambios despues se borraran dichos cambios*/
+    git checkut "Nomnre del archivo a afectar"
+
+/**/
