@@ -22,3 +22,5 @@ C:\flutter\bin ---> en los dos path
 
 lib--> main.dart --> archivo importante mustra la estructura q tiene nuestro proyecto
 pubspec.yaml---> es donde vamos agregando o cargando los plugins o extenciones necesarios poniendro los link de lo q necesitamos.
+
+/*Si da errores autualizamos el flutter */
