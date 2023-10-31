@@ -8,9 +8,9 @@ npm -version
 npm install 
 
 /*En caso de q le salga error al ejecutar el nmp -version*/
-/*Ejecutamos los sigientes comando en orden y ponemos si o yes*/
-Get-ExecutionPolicy
-Set-ExecutionPolicy unrestricted
+/*Ejecutamos los sigientes comando en orden y ponemos si o yes y seleccionamos O o A para permitir todo */
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy Unrestricted
 
 /*Instalamos Angular de manera globar*/
 npm install @angular/cli
