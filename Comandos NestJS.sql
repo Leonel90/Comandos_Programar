@@ -19,6 +19,19 @@
     npm install pg --save
 
 /* Creamos los diferentes archivos necesarios */
+
+/* Module */
+nest generate module ventas
 nest g mo ventas
+/* Controller */
+nest generate controller ventas/ventas --flat
 nest g co ventas/ventas --flat
+/* Service */
+nest generate service ventas/ventas --flat
 nest g s ventas/ventas --flat
+/* interface */
+nest generate interface tags/tag
+nest g i tags/tags --flat
+nest g i tags/tags
+
+/* Uso he Implementacion de Pipes nos sirve para validaciones y transformaciones*/
