@@ -1,4 +1,4 @@
---## COMANDOS Git VARIOS ##--
+--## COMANDOS Git CREACIÓN RAMAS Y ESQUEMAS A TRABAJR  ##--
 
 git clone "http url"  --> para clonar un proyecto desde el repositorio
 
