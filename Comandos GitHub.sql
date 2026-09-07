@@ -1,4 +1,5 @@
 --## COMANDOS Git VARIOS ##--
+
 git clone "http url"  --> para clonar un proyecto desde el repositorio
 
 git branch --> Listar las ramas q existen en un proyecto.
@@ -7,7 +8,11 @@ git branche "nombre de la rama" --> Crear una nueva rama.
 
 git checkout "nombre de la rama" --> Para moverse a una rama existente y trabajr en ella.
 
+git branch -d "nombre de la rama" --> Eliminar la rama creada.
+
 git checkout -b "nombre de la rama" --> Para crear una rama nueva y trabajar en ella
+
+
 
 
 --## COMANDOS PARA SUBIR A GitHub UN PROYETO ##--
